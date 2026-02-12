@@ -1,0 +1,8 @@
+{
+  "name": "Copy of UEW Innovation Hub Connect",
+  "description": "A comprehensive platform for students at the University of Education, Winneba Innovation Hub to showcase projects, book lab resources, and interact with an AI Innovation Mentor.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
